@@ -12,8 +12,9 @@ Below is the Screenshots of the Project
 ## 3) Now we run the Client.py file and Iot.py file simultaneoulsy and in the Client.py terminal you will get an Output like this
 <img width="822" alt="Client py1" src="https://github.com/Rav-Kiran123/Secure_Communication_Between_IOT_Devices_Using_RSA/assets/89346194/295a8375-31f6-4e3b-9bf3-0560f1f992f1">
 
-## 4) Enter Y and then enter your Username and Password you had given before and then enter whatever message you want to send to the IOT Server
-<img width="926" alt="clientm" src="https://github.com/Rav-Kiran123/Secure_Communication_Between_IOT_Devices_Using_RSA/assets/89346194/c31b69ac-c0da-4391-b55b-ab549cf79514">
+## 4) Enter Y and then enter your Username and Password you had given before and then enter whatever message you want to send to the IOT Server in RSA encrypted format
 
-## 5) We see that the server which is the iot device receives the message. We can also send the message from the iot device to the client. 
-<img width="960" alt="iotr" src="https://github.com/Rav-Kiran123/Secure_Communication_Between_IOT_Devices_Using_RSA/assets/89346194/86b6052c-0233-43c1-b099-5bc92eb7f950">
+<img width="791" alt="clientm" src="https://github.com/Rav-Kiran123/Secure_Communication_Between_IOT_Devices_Using_RSA/assets/89346194/a7d73663-4f66-4bdf-a609-22848d6af485">
+
+## 5) We see that the server which is the iot device receives the decrypted message. This way we can send encrypted messages to the IOT device
+<img width="785" alt="iotr" src="https://github.com/Rav-Kiran123/Secure_Communication_Between_IOT_Devices_Using_RSA/assets/89346194/bc2cad3b-1f0c-4fec-8674-d9beb4c5b3e0">
